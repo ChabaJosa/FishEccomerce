@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Clownfish",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs1.picswalls.com%2Fwallpapers%2F2014%2F07%2F17%2Fbeautiful-fish-wallpaper_110414350_50.jpg&f=1&nofb=1&ipt=b76964171672632da1c08524caccb011b0ec95d67eddd9e8a9fcbe0ca2e46b9a&ipo=images",
+    "description": "Clownfish are colorful, small-sized fish that live in coral reefs.",
+    "price": 25.99
+  },
+  {
+    "id": 2,
+    "title": "Tuna",
+    "image": "http://www.pixelstalk.net/wp-content/uploads/2016/04/Beautiful-ocean-fish-wallpaper-HD.jpg",
+    "description": "Tuna is a large and powerful fish found in warm seas. They are a popular food fish.",
+    "price": 35.99
+  },
+  {
+    "id": 3,
+    "title": "Clownfish",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs1.picswalls.com%2Fwallpapers%2F2014%2F07%2F17%2Fbeautiful-fish-wallpaper_110414350_50.jpg&f=1&nofb=1&ipt=b76964171672632da1c08524caccb011b0ec95d67eddd9e8a9fcbe0ca2e46b9a&ipo=images",
+    "description": "Clownfish are colorful, small-sized fish that live in coral reefs.",
+    "price": 25.99
+  },
+  {
+    "id": 4,
+    "title": "Tuna",
+    "image": "http://www.pixelstalk.net/wp-content/uploads/2016/04/Beautiful-ocean-fish-wallpaper-HD.jpg",
+    "description": "Tuna is a large and powerful fish found in warm seas. They are a popular food fish.",
+    "price": 35.99
+  },
+  {
+    "id": 5,
+    "title": "Clownfish",
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs1.picswalls.com%2Fwallpapers%2F2014%2F07%2F17%2Fbeautiful-fish-wallpaper_110414350_50.jpg&f=1&nofb=1&ipt=b76964171672632da1c08524caccb011b0ec95d67eddd9e8a9fcbe0ca2e46b9a&ipo=images",
+    "description": "Clownfish are colorful, small-sized fish that live in coral reefs.",
+    "price": 25.99
+  },
+  {
+    "id": 6,
+    "title": "Tuna",
+    "image": "http://www.pixelstalk.net/wp-content/uploads/2016/04/Beautiful-ocean-fish-wallpaper-HD.jpg",
+    "description": "Tuna is a large and powerful fish found in warm seas. They are a popular food fish.",
+    "price": 35.99
+  }
+]
